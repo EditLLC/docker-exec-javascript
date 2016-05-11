@@ -1,0 +1,22 @@
+{
+  "name": "docker-exec-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EditLLC/docker-exec-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EditLLC/docker-exec-javascript/issues"
+  },
+  "homepage": "https://github.com/EditLLC/docker-exec-javascript#readme",
+  "dependencies": {
+    "montagedata": "git+https://github.com/EditLLC/javascript-montage.git#feature/v3"
+  }
+}
